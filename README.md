@@ -37,7 +37,7 @@
 
 <script src="https://cdn.staticfile.org/jquery/2.2.4/jquery.min.js"></script>
 <p><a href="javascript:void(0)" onclick="dashangToggle()" class="dashang" title="打赏，支持一下">打赏</a></p>
-<div class="hide_box"></div>
+<div class="hide_box">
 <div class="shang_box">
     <a class="shang_close" href="javascript:void(0)" onclick="dashangToggle()" title="关闭"><img src="https://static.runoob.com/images/dashang/close.jpg" alt="取消" /></a>
     
