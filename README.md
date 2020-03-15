@@ -32,8 +32,7 @@
 2004年《旅程》（参演）<br>
 
 徐皓峰微信公众号<br>
-![Image](src)
-<img src="http://ww1.sinaimg.cn/large/006891Mqgy1gcusr1upaej3076076t96.jpg"/>
+<img src="http://ww1.sinaimg.cn/large/006891Mqgy1gcusxgm8upj307a07a0sz.jpg"/>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
