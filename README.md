@@ -35,36 +35,18 @@
 <img src="http://ww1.sinaimg.cn/thumbnail/006891Mqgy1gcusxgm8upj307a07a0sz.jpg"/>
 
 
-<script src="https://cdn.staticfile.org/jquery/2.2.4/jquery.min.js"></script>
-<p><a href="javascript:void(0)" onclick="dashangToggle()" class="dashang" title="打赏，支持一下">打赏</a></p>
-<div class="hide_box">
-<div class="shang_box">
-    <a class="shang_close" href="javascript:void(0)" onclick="dashangToggle()" title="关闭"><img src="https://static.runoob.com/images/dashang/close.jpg" alt="取消" /></a>
-    
-    <div class="shang_tit">
-        <p>感谢您的支持，我会继续努力的!</p>
-    </div>
-    <div class="shang_payimg">
-        <img src="https://static.runoob.com/images/dashang/alipayimg.png" alt="扫码支持" title="扫一扫" />
-    </div>
-        <div class="pay_explain">扫码打赏，你说多少就多少</div>
-    <div class="shang_payselect">
-        <div class="pay_item checked" data-id="alipay">
-            <span class="radiobox"></span>
-            <span class="pay_logo"><img src="https://static.runoob.com/images/dashang/alipay.jpg" alt="支付宝" /></span>
-        </div>
-        <div class="pay_item" data-id="weipay">
-            <span class="radiobox"></span>
-            <span class="pay_logo"><img src="https://static.runoob.com/images/dashang/wechat.jpg" alt="微信" /></span>
-        </div>
-    </div>
-    <div class="shang_info">
-        <p>打开<span id="shang_pay_txt">支付宝</span>扫一扫，即可进行扫码打赏哦</p>
-        <p>Powered by <a href="http://www.runoob.com" target="_blank" title="菜鸟教程">RUNOOB.COM</a>，学的不仅是技术，更是梦想！！！</p>
-    </div>
-</div>
-</div>
-
+$(function(){
+	$(".pay_item").click(function(){
+		$(this).addClass('checked').siblings('.pay_item').removeClass('checked');
+		var dataid=$(this).attr('data-id');
+		$(".shang_payimg img").attr("src","https://static.runoob.com/images/dashang/"+dataid+"img.png");
+		$("#shang_pay_txt").text(dataid=="alipay"?"支付宝":"微信");
+	});
+});
+function dashangToggle(){
+	$(".hide_box").fadeToggle();
+	$(".shang_box").fadeToggle();
+}
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
