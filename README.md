@@ -1,7 +1,6 @@
-介绍徐皓峰老师的文艺与武艺,推广中国优秀传统和文化。
 
-徐皓峰文学及影视作品名汇总<br>
-文学作品<br>
+<b>徐皓峰文学及影视作品名汇总</b><br>
+<i>文学作品</i><br>
 2018年10月 《大明末世南京城》 中篇小说<br>
 2017年03月《处男葛不垒》小说集<br>
 2015年06月《坐看重围》散文<br>
@@ -19,7 +18,7 @@
 2006年11月《逝去的武林》纪实文学<br>
 
 <br><br>
-导演/编剧/参演影视作品<br>
+<i>导演/编剧/参演影视作品</i><br>
 2018年 《诗眼倦天涯》<br>
 2017年《刀背藏身》<br>
 2016年《箭士柳白猿》<br>
@@ -32,6 +31,8 @@
 2006年《草芥》（参演）<br>
 2004年《旅程》（参演）<br>
 
+徐皓峰微信公众号
+![Image](src)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
