@@ -69,7 +69,7 @@
 <p><a href="javascript:void(0)" onclick="dashangToggle()" class="dashang" title="打赏，支持一下">打赏</a></p>
 
 <div class="shang_box">
-
+    <a class="shang_close" href="javascript:void(0)" onclick="dashangToggle()" title="关闭"><img src="https://static.runoob.com/images/dashang/close.jpg" alt="取消" /></a>
     <div class="shang_payselect">
     	<div class="pay_item checked" data-id="alipay">
 	    	<span class="radiobox"></span>
@@ -97,7 +97,6 @@ function dashangToggle(){
     $(".shang_box").fadeToggle();
 }
 </script>
-
 
 
 
