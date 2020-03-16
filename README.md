@@ -36,6 +36,8 @@
 
 
 
+
+
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <script type="text/javascript" src="http://apps.bdimg.com/libs/jquery/1.6.4/jquery.min.js"></script>
 <title>打赏</title>
@@ -68,14 +70,6 @@
 <div class="hide_box"></div>
 <div class="shang_box">
     <a class="shang_close" href="javascript:void(0)" onclick="dashangToggle()" title="关闭"><img src="https://static.runoob.com/images/dashang/close.jpg" alt="取消" /></a>
-       
-    <div class="shang_tit">
-    	<p>感谢您的支持，我会继续努力的!</p>
-    </div>
-    <div class="shang_payimg">
-    	<img src="https://static.runoob.com/images/dashang/alipayimg.png" alt="扫码支持" title="扫一扫" />
-    </div>
-    	<div class="pay_explain">扫码打赏，你说多少就多少</div>
     <div class="shang_payselect">
     	<div class="pay_item checked" data-id="alipay">
 	    	<span class="radiobox"></span>
@@ -106,6 +100,8 @@ function dashangToggle(){
     $(".shang_box").fadeToggle();
 }
 </script>
+
+
 
 
 
