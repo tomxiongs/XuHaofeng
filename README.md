@@ -67,9 +67,9 @@
 
 <div class="content">
 <p><a href="javascript:void(0)" onclick="dashangToggle()" class="dashang" title="打赏，支持一下">打赏</a></p>
-<div class="hide_box"></div>
+
 <div class="shang_box">
-    <a class="shang_close" href="javascript:void(0)" onclick="dashangToggle()" title="关闭"><img src="https://static.runoob.com/images/dashang/close.jpg" alt="取消" /></a>
+
     <div class="shang_payselect">
     	<div class="pay_item checked" data-id="alipay">
 	    	<span class="radiobox"></span>
@@ -80,10 +80,7 @@
 	    	<span class="pay_logo"><img src="http://ww1.sinaimg.cn/thumbnail/006891Mqgy1gcvl8t6prhj305o05gmxh.jpg" alt="微信" /></span>
     	</div>
     </div>
-    <div class="shang_info">
-    	<p>打开<span id="shang_pay_txt">支付宝</span>扫一扫，即可进行扫码打赏哦</p>
-    	<p>Powered by <a href="http://www.runoob.com" target="_blank" title="菜鸟教程">RUNOOB.COM</a>，学的不仅是技术，更是梦想！！！</p>
-    </div>
+
 </div>
 </div>
 <script type="text/javascript">
@@ -100,6 +97,7 @@ function dashangToggle(){
     $(".shang_box").fadeToggle();
 }
 </script>
+
 
 
 
