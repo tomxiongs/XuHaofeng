@@ -23,6 +23,9 @@
 2007年 [《浮世流转的大雅大俗》](https://www.ixueshu.com/document/8b060cde8646e68d318947a18e7f9386.html)<br>
 2004年[《中国电影与大众生活》](https://www.ixueshu.com/document/7d3ef7921d61450e318947a18e7f9386.html)<br>
 2004年[《载浮载沉听皮肤——仙学呼吸法 》](http://xueshu.baidu.com/usercenter/paper/show?paperid=43aa17b253dc65f69b6e9eefbb33f36a&site=xueshu_se)<br>
+2004年[《阴跷一穴秘不宣——庄子名句“真人呼吸以踵”的含义》](https://www.ixueshu.com/document/1f90488d1293a100318947a18e7f9386.html)<br>
+2003年[《尚云祥教拳二三事》](https://wenku.baidu.com/view/1ca8f12b453610661ed9f495.html)<br>
+2001年[《相逢药师经法 》](https://www.douban.com/group/topic/5781625/)<br>
 
 <br><br>
 <i>导演/编剧/参演影视作品</i><br>
