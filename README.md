@@ -25,7 +25,7 @@
 2017年《刀背藏身》<br>
 2016年[《箭士柳白猿》](https://v.qq.com/x/cover/0laopjqczo79rh4/q00205hdbqs.html?)<br>
 2016年《天涯明月刀》<br>
-2015年《师父》<br>
+2015年[《师父》](https://v.youku.com/v_show/id_XMTQ0NDY5ODA3Ng)<br>
 2015年《道士下山》<br>
 2014年《镖门》电视剧<br>
 2013年《一代宗师》<br>
