@@ -73,11 +73,11 @@
     <div class="shang_payselect">
     	<div class="pay_item checked" data-id="alipay">
 	    	<span class="radiobox"></span>
-	    	<span class="pay_logo"><img src="http://ww1.sinaimg.cn/thumbnail/006891Mqgy1gcvlc3u1baj306205vwf2.jpg" alt="支付宝" /></span>
+	    	<span class="pay_logo"><img src="http://ww1.sinaimg.cn/thumbnail/006891Mqgy1gcwom6ek6oj30ol0uj76a.jpg" alt="支付宝" /></span>
     	</div>
     	<div class="pay_item" data-id="weipay">
 	    	<span class="radiobox"></span>
-	    	<span class="pay_logo"><img src="http://ww1.sinaimg.cn/thumbnail/006891Mqgy1gcvl8t6prhj305o05gmxh.jpg" alt="微信" /></span>
+	    	<span class="pay_logo"><img src="http://ww1.sinaimg.cn/thumbnail/006891Mqgy1gcwojval4uj30jh0u741m.jpg" alt="微信" /></span>
     	</div>
     </div>
 
@@ -97,6 +97,11 @@ function dashangToggle(){
     $(".shang_box").fadeToggle();
 }
 </script>
+
+
+
+
+
 
 
 
