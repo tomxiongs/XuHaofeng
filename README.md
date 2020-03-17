@@ -26,6 +26,7 @@
 2004年[《阴跷一穴秘不宣——庄子名句“真人呼吸以踵”的含义》](https://www.ixueshu.com/document/1f90488d1293a100318947a18e7f9386.html)<br>
 2003年[《尚云祥教拳二三事》](https://wenku.baidu.com/view/1ca8f12b453610661ed9f495.html)<br>
 2001年[《相逢药师经法 》](https://www.douban.com/group/topic/5781625/)<br>
+2001年[《<性命圭旨>中的疑字 》](http://www.360doc.com/content/16/1222/17/33842124_616863493.shtml)
 
 <br><br>
 <i>导演/编剧/参演影视作品</i><br>
