@@ -19,6 +19,9 @@
 2006年11月《逝去的武林》纪实文学<br>
 2004年02月[《大明末世南京城》](https://www.douban.com/doulist/43318001/) 中篇小说<br>
 
+<i>学术文章</i><br>
+2007年 [《浮世流转的大雅大俗》](https://www.ixueshu.com/document/8b060cde8646e68d318947a18e7f9386.html)<br>
+
 <br><br>
 <i>导演/编剧/参演影视作品</i><br>
 2018年 《诗眼倦天涯》<br>
