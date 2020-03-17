@@ -33,7 +33,8 @@
 2006年《草芥》（参演）<br>
 2004年《旅程》（参演）<br>
 
-<b>徐皓峰微信公众号: 搜索'徐皓峰' 或 'zhongyily' </b><br>
+<b>徐皓峰微信公众号</b><br>
+搜索'徐皓峰' 或 'zhongyily'，或者微信扫描下方 <br>
 ![徐皓峰微信公众号](http://ww1.sinaimg.cn/thumbnail/006891Mqgy1gcusxgm8upj307a07a0sz.jpg)
 
 
