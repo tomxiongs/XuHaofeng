@@ -21,6 +21,8 @@
 
 <i>学术文章</i><br>
 2007年 [《浮世流转的大雅大俗》](https://www.ixueshu.com/document/8b060cde8646e68d318947a18e7f9386.html)<br>
+2004年[《中国电影与大众生活》](https://www.ixueshu.com/document/7d3ef7921d61450e318947a18e7f9386.html)<br>
+2004年[《载浮载沉听皮肤——仙学呼吸法 》](http://xueshu.baidu.com/usercenter/paper/show?paperid=43aa17b253dc65f69b6e9eefbb33f36a&site=xueshu_se)<br>
 
 <br><br>
 <i>导演/编剧/参演影视作品</i><br>
