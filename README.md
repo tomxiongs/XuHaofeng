@@ -41,7 +41,7 @@
 2015年[《师父》](https://v.youku.com/v_show/id_XMTQ0NDY5ODA3Ng)<br>
 2015年[《道士下山》](https://www.iqiyi.com/v_19rrntfzyc.html)<br>
 2014年《镖门》电视剧<br>
-2013年《一代宗师》<br>
+2013年[《一代宗师》](https://v.qq.com/x/cover/cqa1l6fj5d49fvw.html?)<br>
 2011年《倭寇的踪迹》<br>
 2006年《草芥》（参演）<br>
 2004年[《旅程》](https://v.qq.com/x/cover/9fjfbyiklyw4ndl.html?)（参演）<br>
