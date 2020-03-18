@@ -27,7 +27,7 @@
 2003年[《尚云祥教拳二三事》](https://wenku.baidu.com/view/1ca8f12b453610661ed9f495.html)<br>
 2001年[《相逢药师经法 》](https://www.douban.com/group/topic/5781625/)<br>
 2001年[《性命圭旨中的疑字 》](http://www.360doc.com/content/16/1222/17/33842124_616863493.shtml)<br>
-1998年[《陈撄宁文笔》](http://blog.sina.com.cn/s/blog_5060f5410102weh0.html)
+1998年[《陈撄宁文笔》](http://blog.sina.com.cn/s/blog_5060f5410102weh0.html)<br>
 [更多....](http://xueshu.baidu.com/s?wd=%E5%BE%90%E7%9A%93%E5%B3%B0)
 
 <br><br>
