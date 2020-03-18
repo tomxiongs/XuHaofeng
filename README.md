@@ -33,6 +33,8 @@
 <br><br>
 <i>导演/编剧/参演影视作品</i><br>
 2018年 《诗眼倦天涯》<br>
+2017年《挟刀揉手》（纪录片）<br>
+2017年《心思刀理》（纪录片）<br>
 2017年《刀背藏身》[预告片](https://v.qq.com/x/cover/gl4biyhysriv43f.html?)<br>
 2016年[《箭士柳白猿》](https://v.qq.com/x/cover/0laopjqczo79rh4/q00205hdbqs.html?)<br>
 2016年《天涯明月刀》<br>
