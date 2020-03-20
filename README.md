@@ -86,7 +86,7 @@
 第41届（2017）蒙特利尔国际电影节主竞赛单元最佳艺术贡献奖《刀背藏身》（获奖）<br>
 第41届（2017）蒙特利尔国际电影节主竞赛单元-美洲大奖《刀背藏身》（提名）<br>    
 
-<b>打赏网站</b>##(站长微信号: xiwall)##<br>
+<b>打赏网站</b>(站长微信号: xiwall)<br>
 *Donate to Support the Website<br>*
 *[微信](http://ww1.sinaimg.cn/thumbnail/006891Mqgy1gcvl8t6prhj305o05gmxh.jpg)*<br>
 ![使用微信打赏](http://ww1.sinaimg.cn/thumbnail/006891Mqgy1gcvl8t6prhj305o05gmxh.jpg)
@@ -94,5 +94,3 @@
 *[支付宝](http://ww1.sinaimg.cn/thumbnail/006891Mqgy1gcvlc3u1baj306205vwf2.jpg)*<br>
 ![使用支付宝打赏](http://ww1.sinaimg.cn/thumbnail/006891Mqgy1gcvlc3u1baj306205vwf2.jpg)
 
-<!-- Go to www.addthis.com/dashboard to customize your tools --> 
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51be77db3428915d"></script> 
