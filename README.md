@@ -2,8 +2,10 @@
 
 <b>徐皓峰文学及影视作品名汇总</b><br><br>
 <i>文学作品</i><br>
+2020年03月[《入型入格》](http://www.fx361.com/page/2020/0312/6432114.shtml)中篇小说<br>
 2019年05月[《诗眼倦天涯》](https://mp.weixin.qq.com/s/QV-vjsWjBqHbS0fZWbk-xQ)中篇小说<br>
 2019年03月 [《大地双心》](https://mp.weixin.qq.com/s/IpmTKOljR2GzeRT6UDX7gA )中篇小说<br>
+2018年05月[《弥勒，弥赛亚》](http://www.chinawriter.com.cn/n1/2018/0920/c418958-30304751.html)中篇小说<br>
 2017年03月[《处男葛不垒》](https://www.douban.com/group/topic/99451482/)小说集<br>
 2015年06月《坐看重围》散文<br>
 2014年08月《国术馆》小说<br>
