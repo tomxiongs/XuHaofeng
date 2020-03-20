@@ -92,4 +92,4 @@
 *[支付宝](http://ww1.sinaimg.cn/thumbnail/006891Mqgy1gcvlc3u1baj306205vwf2.jpg)*<br>
 ![使用支付宝打赏](http://ww1.sinaimg.cn/thumbnail/006891Mqgy1gcvlc3u1baj306205vwf2.jpg)
 
-
+<!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51be77db3428915d"></script> 
