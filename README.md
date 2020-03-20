@@ -89,7 +89,7 @@
 *[微信](http://ww1.sinaimg.cn/thumbnail/006891Mqgy1gcvl8t6prhj305o05gmxh.jpg)*<br>
 ![使用微信打赏](http://ww1.sinaimg.cn/thumbnail/006891Mqgy1gcvl8t6prhj305o05gmxh.jpg)
 <br><br>
-*支付宝*<br>
+*[支付宝](http://ww1.sinaimg.cn/thumbnail/006891Mqgy1gcvlc3u1baj306205vwf2.jpg)*<br>
 ![使用支付宝打赏](http://ww1.sinaimg.cn/thumbnail/006891Mqgy1gcvlc3u1baj306205vwf2.jpg)
 
 
