@@ -1,3 +1,10 @@
+---
+post_title: 'Post Title'
+layout: post_type_probably_post
+published: true_or_false
+---
+Post goes here.
+
 <i>徐皓峰（徐浩峰），1973年生，著名作家、电影导演/编剧、高校教师，释、道研究学者，民间武术整理者。1994年高中毕业于中央美术学院附中油画专业，1997年大学毕业于北京电影学院导演系；大二弃画，大三从文，[开始写小说](https://mp.weixin.qq.com/s/USsi76t6lF7prrI_72B5nQ )。</i><br><br>
 
 <b>徐皓峰文学及影视作品名汇总</b><br><br>
